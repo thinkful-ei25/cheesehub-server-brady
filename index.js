@@ -36,7 +36,6 @@ app.get('/api/cheeses', (req, res, next) => {
     'Lanark Blue',
     'Lymeswold',
     'Oxford Blue',
-    'Shropshire Blue',
     'Stichelton',
     'Stilton',
     'Blue Wensleydale',
